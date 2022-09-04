@@ -1,0 +1,195 @@
+.welcome-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.welcome-w-e-l-c-o-m-e {
+  width: 100%;
+  height: 926px;
+  display: flex;
+  position: relative;
+  max-width: 428px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+}
+.welcome-welcome-screen {
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 926px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.welcome-statusbari-phone-xlightbackground {
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 52.70758819580078px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.welcome-battery {
+  top: 21.3332462310791px;
+  left: 389px;
+  width: 24.32803726196289px;
+  height: 11.333333015441895px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.welcome-union {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 11px;
+  opacity: 0.40;
+  position: absolute;
+  box-sizing: border-box;
+}
+.welcome-capacity {
+  top: 2.000002861022949px;
+  left: 1.9998975992202759px;
+  width: 18px;
+  height: 7px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  border-radius: 1.3333332538604736px;
+}
+.welcome-wifi {
+  top: 21.33053970336914px;
+  left: 368.6937561035156px;
+  width: 15px;
+  height: 11px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.welcome-cellular {
+  top: 21.666702270507812px;
+  left: 346.66668701171875px;
+  width: 17px;
+  height: 11px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.welcome-text {
+  top: 20px;
+  left: 23.000091552734375px;
+  color: rgba(0, 0, 0, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 13.999999046325684px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.welcome-free-sample-by-wix5 {
+  top: 174px;
+  left: 32px;
+  width: 377px;
+  height: 441px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.welcome-text2 {
+  top: 555px;
+  left: 18px;
+  color: rgba(52, 35, 90, 1);
+  width: 395px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.welcome-rectangle25 {
+  top: 659px;
+  left: 112px;
+  width: 205px;
+  height: 85px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: rgba(53, 33, 95, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 0;
+  border-radius: 50px;
+  margin-bottom: 0;
+}
+.welcome-text4 {
+  top: 680px;
+  left: 171px;
+  color: rgba(97, 72, 137, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

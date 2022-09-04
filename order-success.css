@@ -1,0 +1,190 @@
+.order-success-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.order-success-order-success {
+  width: 100%;
+  height: 926px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 428px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.order-success-content {
+  top: 199px;
+  left: 10px;
+  width: 384px;
+  height: 759px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: column;
+}
+.order-success-tuttimanygiftcoloredboxes11 {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 60px;
+}
+.order-success-image {
+  width: 360px;
+  height: 152px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 60px;
+}
+.order-success-image1 {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 152px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.order-success-text {
+  top: 39.266666412353516px;
+  left: 114px;
+  color: rgba(0, 0, 0, 1);
+  width: 133px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.order-success-text2 {
+  top: 72.20000457763672px;
+  left: 80px;
+  color: rgba(161, 161, 161, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.order-success-checkout-order-status {
+  width: 360px;
+  display: flex;
+  padding: 8px 16px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  justify-content: space-between;
+  background-color: rgba(252, 252, 252, 1);
+}
+.order-success-text4 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.order-success-status-bar {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 24px;
+  display: flex;
+  padding: 5px 10px 6px 10px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: column;
+}
+.order-success-content1 {
+  width: 340px;
+  height: 13px;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.order-success-app-bar-withsubtext {
+  top: 24px;
+  left: 34px;
+  width: 360px;
+  height: 56px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.order-success-lefticon {
+  top: 16px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}

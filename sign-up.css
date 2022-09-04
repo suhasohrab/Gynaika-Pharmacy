@@ -1,0 +1,583 @@
+.sign-up-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.sign-up-sign-up {
+  width: 100%;
+  height: 926px;
+  display: flex;
+  position: relative;
+  max-width: 428px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+}
+.sign-up-sign-up1 {
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 926px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.sign-up-statusbari-phone-xlightbackground {
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 52.70758819580078px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.sign-up-battery {
+  top: 21.3332462310791px;
+  left: 389px;
+  width: 24.32803726196289px;
+  height: 11.333333015441895px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.sign-up-union {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 11px;
+  opacity: 0.40;
+  position: absolute;
+  box-sizing: border-box;
+}
+.sign-up-capacity {
+  top: 2.000002861022949px;
+  left: 1.9998975992202759px;
+  width: 18px;
+  height: 7px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  border-radius: 1.3333332538604736px;
+}
+.sign-up-wifi {
+  top: 21.33053970336914px;
+  left: 368.6937561035156px;
+  width: 15px;
+  height: 11px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.sign-up-cellular {
+  top: 21.666702270507812px;
+  left: 346.66668701171875px;
+  width: 17px;
+  height: 11px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.sign-up-text {
+  top: 20px;
+  left: 23.000091552734375px;
+  color: rgba(0, 0, 0, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 13.999999046325684px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-group93 {
+  top: 830px;
+  left: 102px;
+  width: 222.27053833007812px;
+  height: 19.636159896850586px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.sign-up-text02 {
+  color: rgba(153, 158, 161, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 13.999999046325684px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-text04 {
+  left: 184.0193328857422px;
+  color: rgba(22, 0, 98, 1);
+  width: 38px;
+  height: auto;
+  position: absolute;
+  font-size: 13.999999046325684px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-text06 {
+  top: 218.06472778320312px;
+  left: 29.980676651000977px;
+  color: rgba(0, 0, 0, 1);
+  width: 227px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-group94 {
+  top: 295px;
+  left: 27px;
+  width: 359px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.sign-up-text08 {
+  color: rgba(0, 0, 77, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.999999046325684px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-text-block {
+  top: 314px;
+  left: 28px;
+  width: 335px;
+  display: flex;
+  padding: 12px;
+  position: absolute;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 4px;
+  margin-bottom: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-surface-light);
+}
+.sign-up-text10 {
+  color: var(--dl-color-text-primarybasic);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.sign-up-group98 {
+  top: 453px;
+  left: 27px;
+  width: 359px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.sign-up-text12 {
+  color: rgba(0, 0, 77, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.999999046325684px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-rememberme {
+  top: 538px;
+  left: 27px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.sign-up-text14 {
+  left: 27px;
+  color: rgba(0, 12, 20, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.999999046325684px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-check {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.sign-up-vector3 {
+  top: 6px;
+  left: 4px;
+  width: 12px;
+  height: 9px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.sign-up-forgot-password {
+  top: 539px;
+  left: 279px;
+  width: 111px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.sign-up-text16 {
+  color: rgba(251, 52, 79, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.999999046325684px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-login-button {
+  top: 603px;
+  left: 27px;
+  width: 359px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.sign-up-rectangle11 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 45px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 5px;
+  margin-bottom: 0;
+}
+.sign-up-text18 {
+  top: 11px;
+  left: 148px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-phone-number {
+  top: 371px;
+  left: 28px;
+  width: 359px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.sign-up-text20 {
+  color: rgba(0, 0, 77, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.999999046325684px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-line3 {
+  top: 32px;
+  left: 55px;
+  width: 28px;
+  height: 0px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.sign-up-text22 {
+  top: 37px;
+  left: 15px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.999999046325684px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-text-block1 {
+  top: 399px;
+  left: 83px;
+  width: 268px;
+  height: 36px;
+  display: flex;
+  padding: 12px;
+  position: absolute;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 4px;
+  margin-bottom: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-surface-light);
+}
+.sign-up-text24 {
+  color: var(--dl-color-text-primarybasic);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.sign-up-free-sample-by-wix5 {
+  top: 20px;
+  left: 95px;
+  width: 238px;
+  height: 198px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.sign-up-text-input {
+  top: 479px;
+  left: 23px;
+  width: 328px;
+  height: 49px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: column;
+}
+.sign-up-text-block2 {
+  width: 328px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 4px;
+  margin-bottom: 2px;
+  background-color: var(--dl-color-surface-light);
+}
+.sign-up-text26 {
+  top: 12px;
+  left: 12px;
+  color: var(--dl-color-text-secondarygrey3);
+  width: 400px;
+  height: auto;
+  position: absolute;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.sign-up-mdiremoveredeye {
+  top: 12px;
+  left: 292px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  align-self: stretch;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
